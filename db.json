@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "id": "5d9a",
+      "name": "Vemula Moniesh",
+      "email": "moniesh06@gmail.com",
+      "phone": "8080514833"
+    },
+    {
+      "id": "73dd",
+      "name": "adda",
+      "email": "adda@gmail.com",
+      "phone": "7080904050"
+    },
+    {
+      "id": "a074",
+      "name": "Prem Boddula",
+      "email": "prem@gmail.com",
+      "phone": "7666895403"
+    },
+    {
+      "id": "aa31",
+      "name": "Raj Mogare",
+      "email": "mogare@gmail.com",
+      "phone": "7448448698"
+    }
+  ]
+}
